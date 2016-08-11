@@ -1,0 +1,28 @@
+name: thisisalef
+favicon: null
+layout_spectrum: 0.6968758087605238
+typography_spectrum: 0.7039690986275673
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6668508078437299
+  lightness: 0.3116530510596931
+  saturation: 0.1519652793649584
+  rhythmicContrast: 0.9656597741413862
+purpose: []
