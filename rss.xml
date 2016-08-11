@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[thisisalef]]></title>
+        <description><![CDATA[thisisalef]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 11 Aug 2016 05:54:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Amsterdam archival labelMusic From Memoryhas teased its latest project, a compilation of contemporary and electronic music from Brazil that skirts the country’s dominant musical landscape of post-bossa nova pop music (Música popular brasileiraorMPB for short) to shine light on the fringes of its vastly rich musical heritage.</p>]]></description>
+            <link>undefinedamsterdam-archival-labelmusic-from-memoryhas-teased-its-late/index.html</link>
+            <guid isPermaLink="false">f02d178d-9ad9-442a-aa54-8a707f6c89f5</guid>
+            <pubDate>Thu, 11 Aug 2016 05:54:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
